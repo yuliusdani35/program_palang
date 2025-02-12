@@ -1,0 +1,2395 @@
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(221, 139) (407, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(262, 160) (448, 345)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(216, 142) (439, 365)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(167, 142) (390, 365)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(191, 167) (414, 390)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(262, 139) (448, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.75 [(221, 222) (407, 407)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(167, 118) (390, 341)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(142, 167) (365, 390)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(191, 192) (414, 415)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(180, 139) (366, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(139, 242) (324, 428)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.5 [(159, 160) (345, 345)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(117, 167) (340, 390)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(142, 142) (365, 365)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(200, 142) (468, 409)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(201, 184) (356, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(268, 211) (397, 340)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.75 [(268, 182) (397, 311)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.5 [(253, 219) (408, 374)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(67, 187) (175, 295)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(311, 225) (440, 354)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(201, 184) (356, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(283, 118) (469, 304)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(287, 116) (442, 270)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(311, 182) (440, 311)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(287, 184) (442, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = tepen : 0.6 [(239, 196) (368, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = tepen : 0.8 [(253, 184) (408, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = tepen : 0.6 [(201, 180) (386, 366)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = tepen : 0.8 [(242, 139) (428, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(167, 202) (322, 356)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(167, 168) (296, 297)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(184, 167) (339, 322)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(167, 68) (390, 291)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(191, 93) (414, 316)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(167, 125) (296, 254)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(64, 81) (218, 236)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(111, 171) (379, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(63, 134) (384, 455)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(111, 171) (379, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(82, 171) (349, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(52, 201) (319, 468)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(82, 201) (349, 468)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(141, 171) (409, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(141, 171) (409, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(142, 192) (365, 415)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(27, 170) (348, 491)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(82, 171) (349, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(141, 201) (409, 468)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(141, 201) (409, 468)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(98, 134) (419, 455)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(82, 201) (349, 468)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(52, 171) (319, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(82, 171) (349, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(230, 171) (498, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : list index out of range
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(63, 170) (384, 491)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(63, 170) (384, 491)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(200, 171) (468, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(63, 170) (384, 491)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(27, 170) (348, 491)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(98, 134) (419, 455)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(408, 253) (562, 408)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(142, 142) (365, 365)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(266, 118) (489, 341)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(200, 82) (468, 350)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(225, 153) (354, 282)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(218, 150) (373, 305)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(210, 196) (339, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(268, 153) (397, 282)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(236, 150) (390, 305)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(159, 160) (345, 345)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(201, 139) (386, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(262, 118) (448, 304)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(180, 118) (366, 304)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(167, 184) (322, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(270, 223) (378, 331)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(239, 211) (368, 340)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(270, 211) (378, 319)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(199, 235) (306, 343)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(270, 223) (378, 331)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(247, 247) (354, 355)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(282, 235) (390, 343)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(159, 180) (345, 366)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(184, 184) (339, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(180, 201) (366, 387)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(218, 202) (373, 356)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(236, 219) (390, 374)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(201, 184) (356, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(235, 163) (342, 271)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(182, 196) (311, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(211, 223) (318, 331)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(253, 211) (382, 340)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = @dani : 1.0 [(63, 170) (384, 491)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(216, 118) (439, 341)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.5 [(304, 139) (489, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(405, 390) (441, 426)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(304, 118) (489, 304)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(211, 116) (318, 223)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(247, 116) (354, 223)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(294, 140) (402, 247)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = lala : 0.8 [(270, 152) (378, 259)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(296, 110) (425, 239)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(294, 140) (402, 247)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.5 [(318, 163) (426, 271)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(221, 118) (407, 304)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(201, 98) (386, 284)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(242, 98) (428, 284)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(295, 245) (384, 335)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(265, 186) (354, 275)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(245, 206) (335, 295)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(268, 125) (397, 254)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(253, 98) (408, 253)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(253, 168) (382, 297)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(218, 133) (373, 288)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.75 [(201, 133) (356, 288)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(236, 167) (390, 322)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(218, 133) (373, 288)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.75 [(268, 168) (397, 297)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 0.75 [(211, 199) (318, 307)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(196, 168) (325, 297)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(236, 184) (390, 339)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(184, 150) (339, 305)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(150, 167) (304, 322)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(285, 236) (374, 325)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(255, 245) (344, 335)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(245, 196) (335, 285)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(339, 110) (468, 239)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(218, 116) (373, 270)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(150, 81) (304, 236)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+Error : Face could not be detected in G:\Program palang/temp/pic0.png.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(236, 167) (390, 322)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(218, 98) (373, 253)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(253, 98) (408, 253)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(210, 153) (339, 282)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(184, 116) (339, 270)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(225, 139) (354, 268)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(235, 152) (342, 259)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(175, 163) (282, 271)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(196, 125) (325, 254)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(268, 153) (397, 282)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(311, 153) (440, 282)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(311, 139) (440, 268)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(245, 196) (335, 285)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(247, 163) (354, 271)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(306, 175) (414, 283)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Alvin : 1.0 [(318, 140) (426, 247)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+Error : local variable 'n' referenced before assignment
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(225, 139) (354, 268)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(239, 139) (368, 268)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = Unknown :   [(201, 116) (356, 270)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(124, 168) (253, 297)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(210, 125) (339, 254)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = angel : 1.0 [(201, 98) (356, 253)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = dani : 1.0 [(111, 171) (379, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic1.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = dani : 1.0 [(141, 142) (409, 409)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = dani : 1.0 [(111, 171) (379, 439)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : True
+start face recognition
+1
+2
+result = dani : 1.0 [(111, 201) (379, 468)]
+3
+4
+5
+6
+sedang di proses
+start anti spoofing
+G:\Program palang/temp/pic0.png
+done anti spoofing
+result anti spoofing : False
